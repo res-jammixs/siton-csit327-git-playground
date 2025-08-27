@@ -1,2 +1,2 @@
 ## Contributors
-- _Add your name here in Task C_
+- Siton, James Michael (**@res-jammixs**)
